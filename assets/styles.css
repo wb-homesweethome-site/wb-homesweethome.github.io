@@ -11,6 +11,13 @@ a:hover {
 .h1, h1, .h4, h4 {
   font-weight: 900;
 }
+.solicit-title, .solicit-description {
+  display: none;
+}
+#show-blurb p {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
 label {
   font-weight: 900;
 }
