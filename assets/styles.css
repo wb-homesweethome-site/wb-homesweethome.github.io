@@ -1,1 +1,37 @@
-
+body {
+  background-color: #fff4c7;
+}
+a {
+  color: #c38117;
+  text-decoration: underline;
+}
+h4 {
+  font-weight: 900;
+}
+label {
+  font-weight: 900;
+}
+.alert-secondary {
+  color: #f2770c;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+.alert {
+  text-transform: uppercase;
+}
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+  padding: 5% 10%;
+  background-color: #fff;
+  border-radius: 8px;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #c38117;
+  border-color: #c38117;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #905f11;
+  border-color: #905f11;
+}
