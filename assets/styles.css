@@ -1,6 +1,6 @@
-body {
+.bg {
   background: rgb(6,6,6);
-  background: linear-gradient(178deg, rgba(233,125,27,1) 0%, rgba(93,44,0,1) 19%, rgba(6,6,6,1) 100%);
+  background: linear-gradient(178deg, rgba(93,44,0,1) 0%, rgba(6,6,6,1) 100%);
 }
 a {
   color: #c38117;
