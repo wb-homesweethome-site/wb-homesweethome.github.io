@@ -51,6 +51,15 @@ label {
   background-color: #905f11;
   border-color: #905f11;
 }
+form.mb-4.solicit-form {
+  margin-bottom: 0 !important;
+}
+p.small.text-muted.solicit-disclaimer {
+  padding: 0 10% 5%;
+  margin-top: -15px;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
 @media only screen and (max-width: 576px) {
   #show-blurb h1 {
       font-size: 2rem;
