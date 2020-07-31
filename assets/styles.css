@@ -63,6 +63,17 @@ form.mb-4.solicit-form {
   border-radius: 8px;
   background-color: #ffffff;
 }
+h4.alert-warning.solicit-warning-heading,
+h4.alert-heading.solicit-sent-heading {
+    padding-left: 20px;
+}
+.alert-success {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+.solicit-sent-message {
+    color: #111;
+}
 @media only screen and (max-width: 576px) {
   #show-blurb h1 {
       font-size: 2rem;
