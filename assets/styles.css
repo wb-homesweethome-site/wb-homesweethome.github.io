@@ -63,13 +63,16 @@ form.mb-4.solicit-form {
   border-radius: 8px;
   background-color: #ffffff;
 }
-h4.alert-warning.solicit-warning-heading,
-h4.alert-heading.solicit-sent-heading {
+h4.alert-warning.solicit-warning-heading {
     padding-left: 20px;
 }
+h4.alert-heading.solicit-sent-heading {
+  color: #f2770c;
+}
 .alert-success {
-    background-color: #ffffff;
-    border-color: #ffffff;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  padding: 20px;
 }
 .solicit-sent-message {
     color: #111;
